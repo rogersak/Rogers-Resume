@@ -329,6 +329,7 @@ body {
 .certificate h3{
   font-weight: bold;
   margin: 5px 0;
+  color: var(--title-color);
 }
 
 .certificate p{
@@ -408,6 +409,7 @@ body {
 .interests .list span i{
   font-size: 25px;
   font-weight: bold;
+  color: var(--title-color);
 }
 
 .interests .list span p{
