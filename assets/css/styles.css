@@ -229,7 +229,7 @@ body {
   position: absolute;
   top: 8px;
   left: 5px;
-  background: var(--text-color);
+  background: var(--title-color);
   width: 3px;
   height: 74%;
 }
@@ -257,7 +257,7 @@ body {
 
 .education li::before{
   content: '';
-  background: var(--text-color);
+  background: var(--title-color);
   width: 10px;
   height: 10px;
   position: absolute;
@@ -285,7 +285,7 @@ body {
 
 .exprerience .exp__box::before{
   content: '';
-  background: var(--text-color);
+  background: var(--title-color);
   width: 4px;
   height: 68%;
   position: absolute;
@@ -322,7 +322,7 @@ body {
   width: 10px;
   height: 10px;
   border-radius: 50%;
-  background: var(--text-color);
+  background: var(--title-color);
 }
 
 
